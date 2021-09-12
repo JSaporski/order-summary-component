@@ -14,10 +14,8 @@ li {
 body {
   color: #7a8098;
   font-family: "Red Hat Display", sans-serif;
-  background: url("../img/pattern-background-desktop.svg") no-repeat center
-    center;
+  background: url("../img/pattern-background-desktop.svg") no-repeat top;
   background-color: #e0e8ff;
-  background-size: cover;
 }
 
 ul {
